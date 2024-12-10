@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a backend developer at <a href="https://partsklik.com/" target="_blank" ><b>Partsklik LLP</b></a>
-- 🌱 I’m currently learning machine learning and am a  django developer  .
+- 🌱 I’m currently learning machine learning  .
 - 👯 I’m looking to collaborate on open-source python projects.
 - 🤔 I’m looking for help with Django/DRF/ and django channels projects.
 - 💬 Ask me about web development, node js, and Python.
