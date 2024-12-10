@@ -1,3 +1,13 @@
+### Hi there 👋
+
+- 🔭 I’m currently working as a backend developer at <a href="https://partsklik.com/" target="_blank" ><b>Partsklik LLP</b></a>
+- 🌱 I’m currently learning machine learning and am a  django developer  .
+- 👯 I’m looking to collaborate on open-source python projects.
+- 🤔 I’m looking for help with Django/DRF/ and django channels projects.
+- 💬 Ask me about web development, node js, and Python.
+- 📫 How to reach me: [Email](mailto:bilalahmad876923@gmail.com) | [LinkedIn](https://www.linkedin.com/in/er-bilal-ahmad/)
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaikh.bilal0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/er-bilal-ahmad) 
